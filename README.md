@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/banphp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/banphp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 
-- Red Hat Mercenary [(PGP Key)][pgp]
+- Red Hat Mercenary [(PGP Key)][pgp] -> Connections
 - Semi-active contributor to the [DevForum][devforum] community.
 - Novice to analyzing digital security (digital rights management + software integrity detection), decently experienced in CyberSec (priors redacted).
 - Familiar with the general functioning of computers (CPUs, assembly language (heavily specialized in x86 + x86_64), etc).
