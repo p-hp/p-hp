@@ -75,7 +75,7 @@
 [breach1]: https://pastebin.com/raw/hQSMyqHz
 [breach2]: https://pedohurt.lol/
 [twitter]: https://twitter.com/banphp
-[telegram]: https://t.me/IllIllIllIlllIl
+[telegram]: https://t.me/PHPDOXXEDYOU
 [twitch]: https://twitch.tv/banphp
 [youtube]: https://youtube.com/php666
 [Pastebin]: https://pastebin.com/u/p-hp
