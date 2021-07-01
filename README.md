@@ -79,7 +79,7 @@
 [twitch]: https://twitch.tv/banphp
 [youtube]: https://youtube.com/php666
 [Pastebin]: https://pastebin.com/u/p-hp
-[Discord]: https://discord.gg/Nfa6AQ6Ee7
+[Discord]: https://discord.gg/5QBcQKx7yX
 [pgp]: https://pastebin.com/raw/vehgRdkp
 [vsweb]: https://code.visualstudio.com/
 [javaweb]: https://www.java.com/en/
